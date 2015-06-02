@@ -1,3 +1,6 @@
-print "Hello World - I wrote this in VIM.";
-print "I can't believe there was a syntax error in my HELLO WORLD program.";
+print "Hello World - I wrote this in VIM."
+print "Oh dear, this version was recovered from swap."
+print "I should probably delete that swap file."
+# Goddammit VIM, your keyboard shortcuts suck
+# I am tempted to write a limerick about how much they suck 
 
